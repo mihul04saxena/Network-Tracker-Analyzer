@@ -73,7 +73,7 @@ kml_filename = 'network_lines.kml'
 kml.save(kml_filename)
 
 # URL to open
-url = "https://earth.google.com/web/@22.25968847,84.66654981,508.79187552a,6110647.63795495d,35y,87.72702276h,0t,0r/data=OgMKATA"
+url = "https://earth.google.com/web/"
 
 # Open the URL in the default web browser
 webbrowser.open(url)
